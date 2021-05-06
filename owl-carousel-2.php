@@ -1,23 +1,24 @@
 <?php
 
 /**
- * @link              https://www.howardehrenberg.com
+ * @link              https://github.com/maxnegro/dd-post-carousel
  * @since             1.0.0
  * @package           Owl_Carousel_2
  *
  * @wordpress-plugin
  * Plugin Name:       Custom Post Carousels with Owl
- * Plugin URI:        https://www.duckdiverllc.com/dd-owl-carousel-2/
+ * Plugin URI:        https://github.com/maxnegro/dd-post-carousel
+ * GitHub Plugin URI: https://github.com/maxnegro/dd-post-carousel
  * Description:       Easily add any post type post as a custom post carousel with Owl Carousel 2. Works with any cusotm post type, WooCommerce Products, Featured Products, FAQ, etc.
- * Version:           1.4
- * Author:            Howard Ehrenberg
- * Author URI:        https://www.howardehrenberg.com
+ * Version:           1.5.0
+ * Author:            Howard Ehrenberg, Massimiliano Masserelli
+ * Author URI:        https://www.howardehrenberg.com, https://www.photomarketing.it/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       owl-carousel-2
  * Domain Path:       /languages
  * WC requires at least: 3.0.0
- * WC tested up to: 5.0
+ * WC tested up to: 	5.1
  */
 
 // If this file is called directly, abort.

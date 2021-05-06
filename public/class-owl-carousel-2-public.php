@@ -304,7 +304,9 @@ class Owl_Carousel_2_Public {
                         $thumbnail_id = get_term_meta($category->term_id, 'thumbnail_id', true);
 
                         if (0 !== $thumbnail_id) {
+                            $output .= '<div class="owl-image-wrapper">';
                             $output .= $this->get_post_image($this->meta['img_atts'], $thumbnail_id , $link);
+                            $output .= '</div>';
                         }
                     }
 
