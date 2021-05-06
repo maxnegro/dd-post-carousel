@@ -241,7 +241,9 @@ class Owl_Carousel_2_Public {
                         // Show Image if Checked
                         if ($this->meta['thumbs'] == 'true') {
                             if (0 !== $thumb) {
+                                $output .= '<div class="owl-image-wrapper">';
                                 $output .= $this->get_post_image($this->meta['img_atts'], $thumb, $link);
+                                $output .= '</div>';
                             }
                         }
                         // Add filter to change heading type
