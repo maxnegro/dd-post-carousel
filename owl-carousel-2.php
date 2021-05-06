@@ -10,7 +10,7 @@
  * Plugin URI:        https://github.com/maxnegro/dd-post-carousel
  * GitHub Plugin URI: https://github.com/maxnegro/dd-post-carousel
  * Description:       Easily add any post type post as a custom post carousel with Owl Carousel 2. Works with any cusotm post type, WooCommerce Products, Featured Products, FAQ, etc.
- * Version:           1.5.0
+ * Version:           1.5.1
  * Author:            Howard Ehrenberg, Massimiliano Masserelli
  * Author URI:        https://www.howardehrenberg.com, https://www.photomarketing.it/
  * License:           GPL-2.0+
